@@ -1,2 +1,2 @@
 # baseReactCode
-This the basic stuff needed to make a React project.
+This is the basic stuff needed to make a React project.
